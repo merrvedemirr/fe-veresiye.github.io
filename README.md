@@ -73,7 +73,20 @@ Bu Repo Fe-veresiye gizlilik politikasını içermektedir.
       veriler, internet bağlantısı sağlandığında senkronize edilir.
     </p>
 
-    <h2>4. Üçüncü Taraf Hizmetler</h2>
+    <h2>4. Verilerin Silinmesi</h2>
+    <p>
+      Kullanıcılar, kendilerine ait kişisel verilerin silinmesini talep etme hakkına sahiptir.
+      Veri silme talepleri, uygulama içinden veya geliştirici ile iletişime geçilerek
+      iletilebilir.
+    </p>
+    <p>
+      Talep iletilmesinin ardından, kullanıcıya ait veriler makul bir süre içerisinde
+      kalıcı olarak silinir veya anonim hale getirilir.
+      Yasal yükümlülükler gereği saklanması gereken veriler bu kapsamın dışında tutulabilir.
+    </p>
+
+
+    <h2>5. Üçüncü Taraf Hizmetler</h2>
     <p>Uygulama aşağıdaki üçüncü taraf hizmetleri kullanabilir:</p>
     <ul>
       <li>Firebase (kimlik doğrulama, veritabanı)</li>
@@ -81,25 +94,25 @@ Bu Repo Fe-veresiye gizlilik politikasını içermektedir.
       <li>Sunucu API’leri (yedekleme / geri yükleme)</li>
     </ul>
 
-    <h2>5. Veri Güvenliği</h2>
+    <h2>6. Veri Güvenliği</h2>
     <p>
       Kullanıcı verilerini korumak için gerekli teknik ve idari önlemler alınır.
       Ancak internet üzerinden yapılan hiçbir veri aktarımı %100 güvenli değildir.
     </p>
 
-    <h2>6. Çocukların Gizliliği</h2>
+    <h2>7. Çocukların Gizliliği</h2>
     <p>
       Bu uygulama 13 yaş altındaki çocuklara yönelik değildir.
       Bilerek çocuklardan kişisel veri toplanmaz.
     </p>
 
-    <h2>7. Değişiklikler</h2>
+    <h2>8. Değişiklikler</h2>
     <p>
       Gizlilik Politikası zaman zaman güncellenebilir.
       Güncellemeler bu sayfa üzerinden duyurulur.
     </p>
 
-    <h2>8. İletişim</h2>
+    <h2>9. İletişim</h2>
     <p>
       <strong>Geliştirici:</strong> Demir Software<br/>
       <strong>E-posta:</strong> feappsoftware@gmail.com
